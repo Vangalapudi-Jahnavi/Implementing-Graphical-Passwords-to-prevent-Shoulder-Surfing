@@ -2,7 +2,10 @@
 * We the team of three developed two method Graphical Password Authentication System || Techinoary Cyber Security Internship ||
 * Signup &amp; Login Authentication Using Flask
 * Password Hashing - SHA256
-
+# Team
+- Shanmuk Michael
+- Jahnavi V
+- Akhilesh
 # :writing_hand: Requirements
 - flask
 - flask-sqlalchemy
